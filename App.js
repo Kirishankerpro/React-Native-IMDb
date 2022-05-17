@@ -285,6 +285,34 @@ const App = () => {
                   </Text>
                 </View>
               </View>
+              <View style={{ marginTop: 10, marginLeft: 5, marginRight: 5 }}>
+                <View style={{ backgroundColor: "#383838", padding: 15 }}>
+                  <Image
+                    style={{ height: 250, width: 150, borderRadius: 5 }}
+                    source={require("./assets/ellen.jpg")}
+                  ></Image>
+                  <Text style={{ color: "white", marginTop: 5 }}>
+                    Ellen Burstyn
+                  </Text>
+                  <Text style={{ color: "lightgrey", marginTop: 5 }}>
+                    Murph (Older)
+                  </Text>
+                </View>
+              </View>
+              <View style={{ marginTop: 10, marginLeft: 5, marginRight: 5 }}>
+                <View style={{ backgroundColor: "#383838", padding: 15 }}>
+                  <Image
+                    style={{ height: 250, width: 150, borderRadius: 5 }}
+                    source={require("./assets/john.jpg")}
+                  ></Image>
+                  <Text style={{ color: "white", marginTop: 5 }}>
+                    John Lithgow
+                  </Text>
+                  <Text style={{ color: "lightgrey", marginTop: 5 }}>
+                    Donald
+                  </Text>
+                </View>
+              </View>
             </ScrollView>
           </View>
           <View style={{ backgroundColor: "#2A2A2A" }}>
@@ -312,10 +340,66 @@ const App = () => {
                   color: "white",
                   marginLeft: 10,
                   marginTop: 5,
-                  marginBottom: 100,
+                  marginBottom: 25,
                 }}
               >
                 Jonathan Nolan (written by) and Christopher Nolan (written by)
+              </Text>
+            </View>
+            <View style={{ marginBottom: 15 }}>
+              <Text style={{ color: "white", fontSize: 15 }}>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Consectetur aliquid blanditiis corporis praesentium molestiae
+                error vitae laboriosam ut soluta molestias, minima ducimus aut
+                deleniti ipsa eius. Rerum aut recusandae ducimus voluptatem
+                reiciendis perspiciatis voluptatibus quam libero. Cupiditate
+                quaerat laudantium consectetur nisi quibusdam, explicabo laborum
+                iste vitae voluptatem nobis sit culpa officia impedit error
+                voluptatibus repellat! Consectetur, excepturi explicabo autem
+                veritatis repellendus accusamus soluta accusantium vitae quis
+                nesciunt porro rem aliquid ipsam ea adipisci itaque, cum, unde
+                ex. Adipisci dolorum cupiditate cumque libero voluptatum aliquam
+                officia repellendus nemo, beatae praesentium corrupti excepturi
+                voluptates molestias minima deleniti aperiam qui laboriosam?
+                Mollitia molestiae fugit minus inventore alias itaque. Dolorum
+                magnam adipisci cumque harum quaerat eaque laudantium quidem
+                voluptas rerum eum quas autem, ab veritatis ducimus voluptatem
+                incidunt pariatur possimus perspiciatis! Optio magni quasi
+                repellat architecto neque fugiat rerum iusto animi, quaerat
+                accusantium quo aspernatur ipsam iure dolores temporibus ullam
+                aliquam error dignissimos harum. Dolor culpa facilis ipsam nihil
+                laudantium nisi eveniet soluta blanditiis aspernatur adipisci
+                suscipit accusamus modi voluptates molestias quidem at excepturi
+                voluptatibus ea, omnis id reprehenderit rem. Nam modi, maxime
+                excepturi autem nostrum consequuntur reiciendis culpa provident
+                dolor ex aliquam laudantium magnam assumenda fuga optio sequi
+                quaerat impedit dolore aliquid obcaecati exercitationem
+                dignissimos! Doloremque illum, cupiditate repudiandae,
+                repellendus ad nobis doloribus repellat aperiam libero omnis
+                culpa excepturi nihil nostrum ex ratione maxime aspernatur?
+                Distinctio ipsa ab corrupti eaque sit saepe porro odit ex natus
+                in incidunt quo, eligendi voluptatibus sequi. Totam
+                exercitationem unde aperiam dicta distinctio recusandae culpa
+                sapiente facilis doloribus dolores ut quod, expedita error
+                voluptatum at neque sunt praesentium. Aliquam molestias
+                inventore eaque explicabo modi, architecto tenetur numquam
+                veniam eveniet placeat quae sunt itaque iure nesciunt saepe quam
+                soluta voluptatem, dolores officiis. Voluptatibus excepturi
+                ducimus mollitia, maxime vitae debitis ipsam, in assumenda quas
+                sit impedit, cupiditate ipsa provident facere! Laboriosam,
+                officiis dolore, autem quos doloribus rerum iure sapiente
+                aperiam esse nihil voluptatem reprehenderit aliquam tempora
+                explicabo soluta quae sunt commodi sit ad incidunt consequatur
+                praesentium saepe numquam. Totam eaque, cumque nihil laborum
+                laudantium animi eum molestiae corporis dolorum voluptas
+                quisquam, ex, explicabo aut adipisci commodi sit fugiat! Aut
+                optio voluptate facere laudantium incidunt accusamus enim non
+                iure similique dignissimos ex hic dicta excepturi fugiat
+                voluptatem praesentium, molestias rem ipsa odit placeat
+                obcaecati labore! Quasi, aliquam. Deleniti impedit tenetur
+                ipsam. Aspernatur eligendi velit dolores inventore a
+                accusantium. At quibusdam, unde, deserunt optio asperiores
+                dolores blanditiis, error ad quasi nemo sapiente?
               </Text>
             </View>
           </View>
