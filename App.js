@@ -20,7 +20,7 @@ const App = () => {
           <View style={{ backgroundColor: "#212121" }}>
             <View style={styles.container}>
               <Image
-                source={require("./assets/logo.png")}
+                source={require("./assets/img/logo.png")}
                 style={{ height: 50, width: 50, marginLeft: 15 }}
               />
               <Text
@@ -65,7 +65,7 @@ const App = () => {
                   width: 150,
                   resizeMode: "contain",
                 }}
-                source={require("./assets/film.jpg")}
+                source={require("./assets/img/film.jpg")}
               ></Image>
               <View style={{ marginTop: 5 }}>
                 <Text
@@ -217,7 +217,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/matthew.jpg")}
+                    source={require("./assets/img/matthew.jpg")}
                   ></Image>
                   <Text
                     ellipsizeMode="tail"
@@ -241,7 +241,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/anne.jpg")}
+                    source={require("./assets/img/anne.jpg")}
                   ></Image>
                   <Text style={{ color: "white", marginTop: 5 }}>
                     {" "}
@@ -257,7 +257,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/jessica.jpg")}
+                    source={require("./assets/img/jessica.jpg")}
                   ></Image>
                   <Text style={{ color: "white", marginTop: 5 }}>
                     {" "}
@@ -273,7 +273,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/mackenzie.jpg")}
+                    source={require("./assets/img/mackenzie.jpg")}
                   ></Image>
                   <Text style={{ color: "white", marginTop: 5 }}>
                     {" "}
@@ -289,7 +289,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/ellen.jpg")}
+                    source={require("./assets/img/ellen.jpg")}
                   ></Image>
                   <Text style={{ color: "white", marginTop: 5 }}>
                     Ellen Burstyn
@@ -303,7 +303,7 @@ const App = () => {
                 <View style={{ backgroundColor: "#383838", padding: 15 }}>
                   <Image
                     style={{ height: 250, width: 150, borderRadius: 5 }}
-                    source={require("./assets/john.jpg")}
+                    source={require("./assets/img/john.jpg")}
                   ></Image>
                   <Text style={{ color: "white", marginTop: 5 }}>
                     John Lithgow
